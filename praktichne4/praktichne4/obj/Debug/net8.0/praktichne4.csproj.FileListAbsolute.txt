@@ -1,0 +1,14 @@
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\praktichne4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\praktichne4.AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\praktichne4.AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\praktichne4.csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\bin\Debug\net8.0\praktichne4.exe
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\bin\Debug\net8.0\praktichne4.deps.json
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\bin\Debug\net8.0\praktichne4.runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\bin\Debug\net8.0\praktichne4.dll
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\bin\Debug\net8.0\praktichne4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\praktichne4.dll
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\refint\praktichne4.dll
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\praktichne4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\praktichne4.genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\praktichne4\praktichne4\obj\Debug\net8.0\ref\praktichne4.dll
