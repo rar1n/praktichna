@@ -1,0 +1,10 @@
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\bin\Debug\praktichne5(App).exe.config
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\bin\Debug\praktichne5(App).exe
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\bin\Debug\praktichne5(App).pdb
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\bin\Debug\prakitchne5(Lib).dll
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\bin\Debug\prakitchne5(Lib).pdb
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\obj\Debug\praktichne5(App).csproj.AssemblyReference.cache
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\obj\Debug\praktichne5(App).csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\obj\Debug\praktich.3D4D46CB.Up2Date
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\obj\Debug\praktichne5(App).exe
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\praktichne5(App)\obj\Debug\praktichne5(App).pdb

@@ -1,0 +1,6 @@
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\prakitchne5(Lib)\bin\Debug\prakitchne5(Lib).dll
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\prakitchne5(Lib)\bin\Debug\prakitchne5(Lib).pdb
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\prakitchne5(Lib)\obj\Debug\prakitchne5(Lib).csproj.AssemblyReference.cache
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\prakitchne5(Lib)\obj\Debug\prakitchne5(Lib).csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\prakitchne5(Lib)\obj\Debug\prakitchne5(Lib).dll
+C:\Users\ilja1\Desktop\Лабораторні\prakitchne5(Lib)\prakitchne5(Lib)\obj\Debug\prakitchne5(Lib).pdb
